@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1793177679 source:c:\c\tree_str\tree.cpp
+	"Tree.h"
+	<iostream>
+	<queue>
+
+1793177570 c:\c\tree_str\tree.h
+	"ITree.h"
+
+1793177571 c:\c\tree_str\itree.h
+	<string>
+	<vector>
+	"Node.h"
+
+1793177572 c:\c\tree_str\node.h
+	<string>
+
